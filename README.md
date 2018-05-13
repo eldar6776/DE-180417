@@ -1,2 +1,2 @@
 # DE-180417
-Lighting Gesture Touch Switch - hardware
+Hotel Room Light Dimmer With Touch Sensing
