@@ -1,0 +1,287 @@
+Board Information Report
+Filename     : C:\Users\eldar\Desktop\HotelHills\hw\PrekidacBalkonskeRasvjete\DE-180417\DE-180417.PcbDoc
+Date         : 08.09.2017.
+Time         : 15:58:34
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 138.6784mmx62.3818mm
+    Components on board, 113
+count : 2
+
+Routing Information
+    Routing completion, 100,00%
+    Connections, 272
+    Connections routed, 272
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 222, 166, 0, 2374, 0, 7, 3, 0
+    Bottom Layer, 181, 75, 0, 2051, 0, 5, 1, 0
+    Mechanical 1, 0, 0, 0, 77, 6, 0, 0, 4
+    Mechanical 13, 3, 0, 0, 57, 0, 1, 0, 54
+    Mechanical 15, 0, 0, 0, 84, 0, 0, 0, 0
+    Multi-Layer, 0, 143, 0, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 24, 0, 0, 405, 188, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 5, 0, 0, 92, 64, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 4, 0, 0, 12, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 15
+
+Drill Pairs, Vias
+count : 0
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mm, 241, 0
+    0.4mm, 59, 0
+    0.762mm, 3, 0
+    0.9mm, 61, 0
+    1mm, 14, 0
+    1.1mm, 3, 0
+    7.5mm, 3, 0
+count : 7
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    -1mm, 14
+    0.4mm, 59
+    0.6mm, 64
+    0.762mm, 3
+    2.5mm, 3
+count : 5
+
+Mid Layer Annular Ring Size, Count
+    -1mm, 14
+    0.4mm, 59
+    0.6mm, 64
+    0.762mm, 3
+    2.5mm, 3
+count : 5
+
+Bottom Layer Annular Ring Size, Count
+    -1mm, 14
+    0.4mm, 59
+    0.6mm, 64
+    0.762mm, 3
+    2.5mm, 3
+count : 5
+
+Pad Solder Mask, Count
+    0.1016mm, 384
+count : 1
+
+Pad Paste Mask, Count
+    -0.5mm, 3
+    0mm, 381
+count : 2
+
+Pad Pwr/Gnd Expansion, Count
+    0.508mm, 384
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.254mm, 384
+count : 1
+
+Pad Relief Air Gap, Count
+    0.254mm, 384
+count : 1
+
+Pad Relief Entries, Count
+    4, 384
+count : 1
+
+Via Solder Mask, Count
+count : 0
+
+Track Width, Count
+    0.05mm, 20
+    0.1mm, 141
+    0.127mm, 125
+    0.2mm, 293
+    0.2032mm, 3314
+    0.254mm, 780
+    0.381mm, 1
+    0.508mm, 121
+    0.762mm, 312
+    1.27mm, 45
+count : 10
+
+Arc Line Width, Count
+    0.1mm, 3
+    0.2mm, 1
+    0.2032mm, 402
+    0.25mm, 16
+    0.254mm, 13
+    0.4mm, 1
+    0.6mm, 1
+    1mm, 1
+    1.5mm, 1
+count : 9
+
+Arc Radius, Count
+    0.125mm, 16
+    0.2mm, 1
+    0.3mm, 1
+    0.3175mm, 1
+    0.5mm, 3
+    0.5306mm, 1
+    0.6556mm, 3
+    0.6606mm, 2
+    0.7366mm, 115
+    0.7556mm, 28
+    0.7846mm, 15
+    0.8636mm, 4
+    0.9096mm, 1
+    0.9146mm, 2
+    0.9906mm, 53
+    1.0096mm, 45
+    1.1056mm, 13
+    1.1096mm, 41
+    1.1176mm, 2
+    1.3596mm, 62
+    1.3716mm, 6
+    2.8mm, 3
+    3mm, 2
+    3.25mm, 3
+    3.5921mm, 1
+    7mm, 1
+    13mm, 1
+    21.2634mm, 9
+    22mm, 4
+count : 29
+
+Arc Degrees, Count
+    6, 4
+    8, 8
+    9, 2
+    11, 5
+    12, 4
+    13, 2
+    14, 1
+    15, 4
+    16, 3
+    17, 2
+    18, 2
+    19, 2
+    20, 3
+    22, 2
+    23, 3
+    24, 2
+    25, 1
+    27, 13
+    29, 2
+    30, 3
+    32, 2
+    33, 3
+    34, 2
+    35, 18
+    36, 2
+    37, 4
+    38, 2
+    39, 4
+    40, 1
+    41, 7
+    42, 3
+    43, 4
+    45, 124
+    47, 2
+    48, 9
+    49, 1
+    51, 1
+    54, 3
+    55, 1
+    56, 1
+    57, 5
+    60, 3
+    62, 4
+    63, 1
+    67, 2
+    69, 5
+    70, 10
+    71, 1
+    72, 1
+    73, 2
+    78, 1
+    81, 1
+    84, 1
+    88, 1
+    90, 4
+    93, 1
+    97, 1
+    101, 7
+    102, 1
+    104, 1
+    107, 2
+    112, 1
+    119, 1
+    120, 1
+    127, 1
+    129, 2
+    136, 1
+    138, 7
+    142, 1
+    145, 1
+    146, 2
+    148, 2
+    157, 1
+    159, 9
+    161, 1
+    162, 1
+    176, 1
+    177, 1
+    180, 5
+    184, 1
+    188, 1
+    191, 1
+    198, 3
+    202, 1
+    203, 1
+    219, 4
+    220, 1
+    221, 1
+    223, 2
+    240, 1
+    244, 1
+    360, 65
+count : 92
+
+Text Height, Count
+    0.508mm, 250
+    0.8mm, 2
+    1.524mm, 6
+count : 3
+
+Text Width, Count
+    0.1mm, 2
+    0.127mm, 250
+    0.254mm, 6
+count : 3
+
+Net Track Width, Count
+    0.127mm, 89
+count : 1
+
+Net Via Size, Count
+    1.27mm, 89
+count : 1

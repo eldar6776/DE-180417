@@ -1,0 +1,57 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~DE-180417.PrjPcb|ReportField=ProjectFullPath~C:\Users\eldar\Desktop\HotelHills\hw\PrekidacBalkonskeRasvjete\DE-180417\DE-180417.PrjPcb|ReportField=Title~Bill of Materials For Project [DE-180417.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~112|ReportField=ReportTime~16:53:56|ReportField=ReportDate~08.09.2017.|ReportField=ReportDateTime~08.09.2017. 16:53:56|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~Topal Osman Paše 18|ReportField=Address2~71000 Sarajevo|ReportField=Address3~Federacija BiH|ReportField=Address4~Bosna i Hercegovina|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~eldar6776@hotmail.com|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~08.09.2017.|ReportField=CurrentTime~16:27:44|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\eldar\Desktop\HotelHills\hw\PrekidacBalkonskeRasvjete\DE-180417\DE-180417_01.SchDoc|ReportField=DocumentName~DE-180417_01.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~Eldar Dedić|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~08.09.2017.|ReportField=Organization~I-MEDIA GROUP d.o.o.|ReportField=ProjectName~DE-180417.PrjPcb|ReportField=Revision~001|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~3|ReportField=Time~|ReportField=Title~Power Board|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~DE-180417.PrjPcb|ReportField=DataSourceFullPath~C:\Users\eldar\Desktop\HotelHills\hw\PrekidacBalkonskeRasvjete\DE-180417\DE-180417.PrjPcb
+1|22uF/10V|Ceramic Chip Capacitor - Standard|C100, C108|1210|C1210|2
+2|22uF/25V|Ceramic Chip Capacitor - Standard|C101, C102, C103|1210|C1210|3
+3|100nF|Ceramic Chip Capacitor - Standard|C104, C105, C107, C201, C202, C203, C204, C206, C301, C302|0603|C0603|10
+4|22nF|Ceramic Chip Capacitor - Standard|C106|0603|C0603|1
+5|4u7|Ceramic Chip Capacitor - Standard|C200, C207, C300|0805|C0805|3
+6|1uF|Ceramic Chip Capacitor - Standard|C205|0603|C0603|1
+7|220nF|Ceramic Chip Capacitor - Standard|C208|0603|C0603|1
+8|10uF|Ceramic Chip Capacitor - Standard|C303|0805|C0805|1
+9|1N4007|Silicon Zener Diode (3W)|D100, D111|DO214|BZG03C10|2
+10|15V|Silicon Zener Diode (3W)|D101|DO214|BZG05C15|1
+11|8V2|Schottky Barrier Diode|D102|SOD323|1PS76SB10|1
+12|1N5408|Silicon Zener Diode (3W)|D103, D104, D107, D108|DO214|BZG05C15|4
+13|P4SMA400A|1500 W Peak Power Zener Transient Voltage Suppressor, Unidirectional, 2-Pin SMC, Pb-Free, Tape and Reel|D105|ONSC-SMC-2-403-03_V|1SMC9.0AT3G|1
+14|16V|Schottky Barrier Diode|D106|SOD323|1PS76SB10|1
+15|MCR100-8|Silicon Switching Diode, SOT89, Reel, Green|D109|INF-SOT89_N|BAW78D|1
+16|1N4148|Schottky Barrier Diode|D110, D112, D113|SOD323|1PS76SB10|3
+17|LED_RED|High Performance Chip LED, Red|D300|1.6X0.8X0.8|HSMZ-C190|1
+18|LED_GREEN|High Performance Chip LED, Red|D301|1.6X0.8X0.8|HSMZ-C190|1
+19|LED_BLUE|High Performance Chip LED, Red|D302|1.6X0.8X0.8|HSMZ-C190|1
+20|Photo Sen|Photosensitive Diode|D303|PIN2|Photo Sen|1
+21|Single Wire Lug||P100, P101, P102|Single Wire Lug|Wire Lug|3
+22|CON_A|Header, 4-Pin, Dual row|P103, P201, P300|HDR2X4|Header 4X2|3
+23|CON_B|Header, 4-Pin, Dual row|P104, P202, P301|HDR2X4|Header 4X2|3
+24|ICSP|Header, 3-Pin|P200|HDR1X3|Header 3|1
+25|COM|Header, 3-Pin|P203|HDR1X3|Header 3|1
+26|ICSP|Header, 5-Pin|P302|HDR1X5|Header 5|1
+27|MMBT2222|NPN General-purpose Transistor|Q100, Q105, Q202, Q204|SOT23_N|BC817|4
+28|NGTB15N60EG|IGBT - Short-Circuit Rated, 3-Pin TO-220, Pb-Free, Tube|Q102|ONSC-TO-220-3-221A-09|NGTB15N60EG|1
+29|PBHV9540Z|PNP Medium Power Transistor|Q106|SOT223_N|BCP51|1
+30|PBHV8540Z|NPN Medium Power Transistor|Q107|SOT223_N|BCP54|1
+31|MMBT3906|PNP General-purpose Transistor|Q200, Q201, Q203|SOT23_N|BC807|3
+32|27K|Thick Film Chip Resistor, 1 Ohm to 10M Ohm Range, 5% Tolerance, 1812 Size, 0.5 W|R100|12-1812|ERJ12|1
+33|680R|Thick Film Chip Resistor, 1 Ohm to 10M Ohm Range, 5% Tolerance, 1812 Size, 0.5 W|R101, R102, R103, R104, R105, R106, R124|12-1812|ERJ12|7
+34|150K|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R107|ERA-0603|ERAV|1
+35|47K|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R108, R110, R213|ERA-0603|ERAV|3
+36|0R1|Thick Film Chip Resistor, 1 Ohm to 10M Ohm Range, 5% Tolerance, 1210 Size, 0.25 W|R109|14-1210|ERJ14|1
+37|100K|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R111, R303|ERA-0603|ERAV|2
+38|33K|Rectangular Thick Film Chip Resistor, 10 Ohm to 1M Ohm Range, 0.1% and 0.5% Tolerance, 0805 Size, 0.1 W|R112|ERA-0805|ERA6Y|1
+39|3K3|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R115, R214|ERA-0603|ERAV|2
+40|22R|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R119, R301, R302|ERA-0603|ERAV|3
+41|120K|Rectangular Thick Film Chip Resistor, 10 Ohm to 1M Ohm Range, 0.1% and 0.5% Tolerance, 0805 Size, 0.1 W|R120|ERA-0805|ERA6Y|1
+42|220K|Rectangular Thick Film Chip Resistor, 10 Ohm to 1M Ohm Range, 0.1% and 0.5% Tolerance, 0805 Size, 0.1 W|R121, R122, R125, R126|ERA-0805|ERA6Y|4
+43|10K|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R123, R202, R203, R204, R210|ERA-0603|ERAV|5
+44|10K|Rectangular Thick Film Chip Resistor, 10 Ohm to 1M Ohm Range, 0.1% and 0.5% Tolerance, 0805 Size, 0.1 W|R127|ERA-0805|ERA6Y|1
+45|3K3|Rectangular Thick Film Chip Resistor, 10 Ohm to 1M Ohm Range, 0.1% and 0.5% Tolerance, 0805 Size, 0.1 W|R128|ERA-0805|ERA6Y|1
+46|220K|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R129|ERA-0603|ERAV|1
+47|1K|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R200, R201, R207, R208, R211|ERA-0603|ERAV|5
+48|2K2|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R205, R206|ERA-0603|ERAV|2
+49|15K|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R209, R212|ERA-0603|ERAV|2
+50|100R|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R300|ERA-0603|ERAV|1
+51|220R|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R304|ERA-0603|ERAV|1
+52|REG1117-3.3|800mA and 1A Low Dropout Positive Regulator 2.85V, 3.3V, 5V, and Adjustable|U100|ZZ311|REG1117-3.3|1
+53|STM32F030F4P6|ARM Cortex-M0 32-bit MCU, 16 KB Flash, 4 KB Internal RAM, 15 I/Os, 20-pin TSSOP, -40 to 85 degC, Tube|U200|STM-TSSOP20_N|STM32F030F4P6|1
+54|ADuM1201|Digital Isolator|U201|SOP8|ADuM1201|1
+55|PIC12F1822T-I/SN|Flash Microcontroller with XLP Technology, 32 MHz, 5 I/O, -40 to 85 degC, 8-pin SOIC (SN8), Tape and Reel|U300|MCHP-SOIC-SN8_N|PIC12F1822T-I/SN|1
+56|38kHZ IR receiver||U301|TSOP48|TSOP48|1
